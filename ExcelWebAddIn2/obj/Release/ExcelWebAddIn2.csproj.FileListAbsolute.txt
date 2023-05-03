@@ -1,0 +1,1 @@
+C:\DotNet\ExcelWebAddIn2\ExcelWebAddIn2\obj\Release\ExcelWebAddIn2.csproj.CoreCompileInputs.cache

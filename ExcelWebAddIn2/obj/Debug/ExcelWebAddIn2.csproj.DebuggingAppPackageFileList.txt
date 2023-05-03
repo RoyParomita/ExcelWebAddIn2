@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\ExcelWebAddIn2Manifest.xml
+C:\DotNet\ExcelWebAddIn2\ExcelWebAddIn2\bin\Debug\ExcelWebAddIn2.debugapp
